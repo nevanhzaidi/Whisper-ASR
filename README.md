@@ -2,8 +2,6 @@
 
 Whisper ASR Webservice now available on Docker Hub. You can find the latest version of this repository on docker hub for CPU and GPU.
 
-Docker Hub: <https://hub.docker.com/r/onerahmet/openai-whisper-asr-webservice>
-
 For CPU:
 
 ```sh
